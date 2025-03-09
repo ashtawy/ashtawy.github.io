@@ -2,45 +2,43 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Hossam Ashtawy
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Michigan State University, East Lansing, MI, USA
+      year: 2016
       description:
-        - Description 1.
+        - Machine Learning for Drug Discovery
         - Description 2.
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: MS
+      institution: Michigan State University, East Lansing, MI, USA
+      year: 2011
       description:
-        - Description 1.
-        - Description 2.
+        - Machine Learning for Drug Discovery
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Sr. Director, AI/ML, 
+      institution: Ensem Therapeutics, Waltham, MA, USA
+      year: 2024 - now
       description:
         - Description 1.
         - Description 2.
         - title: Description 3.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Leading the development of a physics-informed AI/ML platform for drug discovery and optimization.
+            - Contributing to the development of generative models for molecular design and protein metastable-state sampling, leveraging diffusion, autoregressive models, and reinforcement learning.
+            - Training and evaluating deep learning models for structure and pose prediction, binding affinity, and molecular design.
+            - Assisting in the design and implementation of an automated pipeline using LLMs, VLMs, and OCSR models to extract biochemical data from patents and scientific literature.
+
     - title: Visiting Professor
       institution: California Institute of Technology, Pasadena, California, US
       year: 1933
