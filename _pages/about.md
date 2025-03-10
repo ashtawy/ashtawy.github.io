@@ -6,7 +6,7 @@ subtitle: <a href='#'>Optimol AI</a> | Learn. Build. Ship. Transform
 
 profile:
   align: right
-  image: Yosemite_park.jpg
+  image: yosemite_park.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>With my daughters and best friends Danya & Lyla at</p>
